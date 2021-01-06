@@ -5,7 +5,7 @@ h1{
     font-size: 50px; 
 }
 .blue-color{
-    color: rgb(67, 67, 216);
+    color: rgb(6, 6, 246);
 }
 .botton1{
     text-decoration: none;
@@ -32,8 +32,28 @@ h1{
 .peraall{
     color: grey;
     font-size: 20px;
-    font-style:italic;
+    font-style: italic;
+   
 }
 .sec2 h2{
     margin-top: 150px;
 }
+.sec3 h2{
+    margin-top: 430px;
+    font-size: 40px;
+    float: left;
+    margin-bottom: 90px;   
+}
+ 
+.gym{
+    width: 30%;
+    float: left;
+    
+}
+.sec4images{
+    width:90%;
+}
+.sec4{
+    margin-left: 200px;
+}
+
