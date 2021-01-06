@@ -52,7 +52,7 @@ h1{
     box-shadow: 10px 10px 40px rgb(139, 130, 180);
     margin: 10px 20px;
     padding: 20px 20px;
-    border-radius: 20px;   
+    border-radius: 5px;   
 }
 .sec4images{
     width:100%;
@@ -113,5 +113,26 @@ section{
     float: left;
     width :3%;
     padding-left: 2%;
+}
+.gym1{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+.gym2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,rgb(27, 93, 7),rgb(32, 241, 9));
+    border-image-slice: 1;
+}
+.gym3{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,rgb(206, 76, 76),rgb(255, 0, 0));
+    border-image-slice: 1;
+}
+footer{
+ text-align: center;
+ color: burlywood;
+ font-size: 20px;
+ font-weight:50px;
 }
 
